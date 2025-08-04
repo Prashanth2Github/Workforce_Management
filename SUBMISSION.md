@@ -10,12 +10,11 @@ Prashanth Bonkuru
 
 ## 🔗 Submission Links
 
-### 1. Link to your Public GitHub Repository
+### 1. Link to GitHub Repository
 [https://github.com/Prashanth2Github/Workforce_Management](https://github.com/Prashanth2Github/Workforce_Management)
 
-### 2. Link to your Video Demonstration
-(Please ensure the link is publicly accessible)  
-[https://www.loom.com/share/YOUR-LOOM-VIDEO-LINK-HERE](https://www.loom.com/share/11d5b7746b854aeb868a7e068c3a549f?sid=5ab5be1f-cb6e-4c20-bcac-2e5d4dec709f)
+### 2. Link to Video Demonstration 
+[https://www.loom.com/share/11d5b7746b854aeb868a7e068c3a549f?sid=5ab5be1f-cb6e-4c20-bcac-2e5d4dec709f](https://www.loom.com/share/11d5b7746b854aeb868a7e068c3a549f?sid=5ab5be1f-cb6e-4c20-bcac-2e5d4dec709f)
 
 ---
 
